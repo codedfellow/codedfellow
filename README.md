@@ -21,11 +21,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/elvisaghaulor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elvisaghaulor" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/elvis aghaulor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elvis aghaulor" height="30" width="40" /></a>
-<a href="https://fb.com/elvis ogugwa aghaulor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elvis ogugwa aghaulor" height="30" width="40" /></a>
+<a href="https://twitter.com/ElvisAghaulor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elvisaghaulor" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/elvis-aghaulor-b66a13149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elvis aghaulor" height="30" width="40" /></a>
+<a href="https://facebook.com/elvis.ogugwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elvis ogugwa aghaulor" height="30" width="40" /></a>
 <a href="https://instagram.com/elvisaghaulor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elvisaghaulor" height="30" width="40" /></a>
-<a href="https://medium.com/@aghaulor elvis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aghaulor elvis" height="30" width="40" /></a>
+<a href="https://medium.com/@aghaulorelvis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aghaulor elvis" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
