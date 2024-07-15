@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Google Cloud and Mastering Linux**
 
-- 👨‍💻 All of my projects are available at [https://elvisaghaulor.azurewebsites.net/](https://elvisaghaulor.azurewebsites.net/)
+- 👨‍💻 My portfolio website is available at [https://elvisaghaulor.azurewebsites.net/](https://elvisaghaulor.azurewebsites.net/)
 
 - 💬 Ask me about **javascript, angular, C#, dotnet core, dotnet, azure, AWS**
 
