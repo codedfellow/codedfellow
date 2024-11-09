@@ -8,6 +8,8 @@
 <!--<p align="left"> <a href="https://twitter.com/elvisaghaulor" target="blank"><img src="https://img.shields.io/twitter/follow/elvisaghaulor?logo=twitter&style=for-the-badge" alt="elvisaghaulor" /></a> </p>-->
 
 - 🔭 I’m currently working on [APEX ECOMMERCE](https://apexecommerce.azurewebsites.net/) and [BULK MAIL MANAGER](https://bulkmailmanager.azurewebsites.net/)
+  
+- 🔭 Their git repositories are [APEX ECOMMERCE](https://dev.azure.com/aghaulorelvis/Ecommerce) and [BULK MAIL MANAGER]((https://github.com/codedfellow/MailSenderProject.git)) respectively
 
 - 🌱 I’m currently learning **Google Cloud and Mastering Linux**
 
