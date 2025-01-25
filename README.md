@@ -12,7 +12,7 @@
 - 🔭 Their git repositories are [APEX ECOMMERCE](https://dev.azure.com/aghaulorelvis/Ecommerce) and [BULK MAIL MANAGER](https://github.com/codedfellow/MailSenderProject.git) 
  respectively
 
-- 🌱 I’m currently learning **Google Cloud and Mastering Linux**
+- 🌱 I’m a cloud enthusiast and can work with **Azure, AWS and Google Cloud**
 
 - 👨‍💻 My portfolio website is available at [https://elvisaghaulor.azurewebsites.net/](https://elvisaghaulor.azurewebsites.net/)
 
