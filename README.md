@@ -16,7 +16,7 @@
 
 - 👨‍💻 My portfolio website is available at [https://elvisaghaulor.azurewebsites.net/](https://elvisaghaulor.azurewebsites.net/)
 
-- 💬 Ask me about **javascript, typescript, angular, C#, dotnet core, dotnet, azure, AWS**
+- 💬 Ask me about **javascript, typescript, angular, C#, dotnet core, dotnet, azure, AWS, nodejs**
 
 - 📫 How to reach me **aghaulorelvis@gmail.com, aghaulorelvis@outlook.com**
 
