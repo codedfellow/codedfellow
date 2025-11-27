@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **javascript, typescript, angular, C#, dotnet core, dotnet, azure, AWS, nodejs**
 
-- 📫 How to reach me **aghaulorelvis@gmail.com, aghaulorelvis@outlook.com**
+- 📫 How to reach me **aghaulorelvis@gmail.com**
 
 - ⚡ Fun fact **I love traveling and playing games**
 
